@@ -1,0 +1,19 @@
+{
+  "name": "bamazonassignment",
+  "version": "1.0.0",
+  "description": "bamazon store front",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaSmithen/BamazonAssignment.git"
+  },
+  "author": "Lisa Smithen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaSmithen/BamazonAssignment/issues"
+  },
+  "homepage": "https://github.com/LisaSmithen/BamazonAssignment#readme"
+}
